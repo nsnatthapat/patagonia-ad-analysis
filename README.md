@@ -16,6 +16,8 @@ This analysis uses data from a randomized controlled experiment conducted over a
 
 ## Dataset
 
+Data file is too large for Github. If you would like access to the dataset, please contact me directly at nsnatthapat@gmail.com and I can share it via Google Drive or another file-sharing service.
+
 The dataset contains 2 million customer records from a three-week randomized experiment. Each customer was independently randomized into treatment or holdout for each of the five marketing channels (80/20 split). Key variables include:
 
 - **Treatment indicators** (`email_T`, `youtube_T`, etc.) — whether the customer was eligible to receive ads on each channel
